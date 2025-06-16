@@ -24,4 +24,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update:  06/13/2025 03-42
+
+
+Update:  Monday 16 June 2025 link is back up
