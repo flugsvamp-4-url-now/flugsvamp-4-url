@@ -38,4 +38,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update:  07/04/2025 04-32 Fixed broken url, now reachable
+
+
+Update: Link is now responsive and live
