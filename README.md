@@ -40,4 +40,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update: Link is now responsive and live
+
+
+Update: Fixed non-working link
