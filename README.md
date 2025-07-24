@@ -46,4 +46,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update: The link is operational once more.
+
+
+Update: link is active and operational
