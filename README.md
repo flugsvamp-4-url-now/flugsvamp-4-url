@@ -48,4 +48,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update: link is active and operational
+
+
+Update:  04.08.2025 link is back online and operational
